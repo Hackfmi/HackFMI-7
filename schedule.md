@@ -12,18 +12,18 @@ Total minutes of presenting: 115
 * Survival Systems
 * HacK'erez
 * Brainstormers
-* Стажантите
 * El Romantico
 * Counter Productive Unit
+* WHAT
 
 ## Group 2
 
-* WHAT
 * Хипопотигровокрокобадавърченце
 * # Бекон
 * National Palace of Culture
 * Безполезници
 * Soolva
+* Стажантите
 * RQ
 * The Observer
 * ikigai
